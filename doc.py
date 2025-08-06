@@ -1,4 +1,3 @@
-pip install python-docx
 from docx import Document
 doc = Document('BONAFIDE.docx')
 text = ''
